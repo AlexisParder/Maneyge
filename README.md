@@ -53,22 +53,22 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - Export PDF (à but personnel) avec logo, numérotation des pages et mentions légales
 
 ### 📅 Module Agenda — en cours
-- ✅ Vue **Jour** — affichage horaire 00h–23h, chevauchement d'événements, responsive
-- ✅ Vue **Semaine** — grille 7 colonnes desktop, affichage empilé mobile
-- ✅ Vue **Mois** — grille responsive, jours hors-mois affichés
-- ✅ Vue **Année** — 12 mini-calendriers, colonnes fixes Lun→Dim
-- ✅ Jours fériés `français` intégrés dans toutes les vues + légende
-- ✅ Création et modification d'événements, chargement BDD dynamique
-- ✅ Agenda collaboratif avec système de rôles
-- ✅ Page de gestion des calendriers
-- 🔲 Création d'un nouveau calendrier
-- 🔲 Gestion des membres et rôles
+- [x] Vue **Jour** — affichage horaire 00h–23h, chevauchement d'événements, responsive
+- [x] Vue **Semaine** — grille 7 colonnes desktop, affichage empilé mobile
+- [x] Vue **Mois** — grille responsive, jours hors-mois affichés
+- [x] Vue **Année** — 12 mini-calendriers, colonnes fixes Lun→Dim
+- [x] Jours fériés `français` intégrés dans toutes les vues + légende
+- [x] Création et modification d'événements, chargement BDD dynamique
+- [x] Agenda collaboratif avec système de rôles
+- [x] Page de gestion des calendriers
+- [ ] Création d'un nouveau calendrier
+- [ ] Gestion des membres et rôles
 
 ### 🌍 Internationalisation — en cours
-- ✅ Système i18n en place (session + BDD)
-- 🔲 Sélecteur de langue
-- ✅ Module Finances traduit
-- 🔲 Traduction des autres modules en cours
+- [x] Système i18n en place (session + BDD)
+- [ ] Sélecteur de langue
+- [x] Module Finances traduit
+- [ ] Traduction des autres modules en cours
 
 ### 🔲 À venir
 - Todo list
