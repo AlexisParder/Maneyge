@@ -41,7 +41,7 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - **Icônes** : FontAwesome
 - **Internationalisation** : système maison  - anglais par défaut, français disponible
 
-## 📦 État d'avancement
+## État d'avancement
 
 ### 💰 Module Finances — terminé
 - Gestion multi-comptes (création, modification, suppression)
@@ -75,10 +75,8 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - Notes
 - Import de transactions (CSV/XLSX banque)
 
-## ⚠️ Licence & accès au code
+## Licence & accès au code
 > **Ce projet n'a pas vocation à être open-source pour le moment.**
 
-Si tu es intéressé par le projet ou souhaites en discuter, n'hésite pas à ouvrir une issue.
-
-## 📸 Aperçu
+## Aperçu
 > *Captures d'écran à venir.*
