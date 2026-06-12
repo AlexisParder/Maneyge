@@ -61,7 +61,7 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - [x] Création et modification d'événements, chargement BDD dynamique
 - [x] Agenda collaboratif avec système de rôles
 - [x] Page de gestion des calendriers
-- [ ] Création d'un nouveau calendrier
+- [x] Création d'un nouveau calendrier
 - [ ] Gestion des membres et rôles
 
 ### 🌍 Internationalisation — en cours
