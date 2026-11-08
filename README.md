@@ -43,7 +43,7 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 
 ## État d'avancement
 
-### 💰 Module Finances - terminé
+### Module Finances - terminé
 - Gestion multi-comptes (création, modification, suppression)
 - Enregistrement des transactions par catégorie
 - Système de budget avec suggestions automatiques basées sur l'historique
@@ -52,7 +52,7 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - Paiements récurrents (quotidien, hebdomadaire, mensuel, trimestriel, annuel) avec exécution automatique via tâche planifiée
 - Export PDF (à but personnel) avec logo, numérotation des pages et mentions légales
 
-### 📅 Module Agenda - en cours
+### Module Agenda - en cours
 - [x] Vue **Jour** - affichage horaire 00h–23h, chevauchement d'événements, responsive
 - [x] Vue **Semaine** - grille 7 colonnes desktop, affichage empilé mobile
 - [x] Vue **Mois** - grille responsive, jours hors-mois affichés
@@ -64,13 +64,13 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - [x] Création d'un nouveau calendrier
 - [ ] Gestion des membres et rôles
 
-### 🌍 Internationalisation - en cours
+### Internationalisation - en cours
 - [x] Système i18n en place (session + BDD)
 - [ ] Sélecteur de langue
 - [x] Module Finances traduit
 - [ ] Traduction des autres modules en cours
 
-### 🔲 À venir
+### À venir
 - Todo list
 - Notes
 - Import de transactions (CSV/XLSX banque)
