@@ -28,14 +28,14 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 
 | Module | Description |
 |---|---|
-| 💰 **Finances** | Comptes, transactions, budgets, alertes, paiements récurrents, export PDF |
-| 📅 **Agenda** | Calendrier collaboratif multi-vues (Jour, Semaine, Mois, Année), partage par rôle |
-| ✅ **Todo list** | Gestion de tâches personnelles et partagées |
-| 📝 **Notes** | Prise de notes centralisée |
+| **Finances** | Comptes, transactions, budgets, alertes, paiements récurrents, export PDF |
+| **Agenda** | Calendrier collaboratif multi-vues (Jour, Semaine, Mois, Année), partage par rôle |
+| **Todo list** | Gestion de tâches personnelles et partagées |
+| **Notes** | Prise de notes centralisée |
 
 ## Stack technique
-- **Backend** : PHP 8.2 — architecture MVC avec séparation Model / DAO / View / Controller
-- **Frontend** : Tailwind CSS v4 + DaisyUI — 100% responsive (desktop & mobile)
+- **Backend** : PHP 8.2 - architecture MVC avec séparation Model / DAO / View / Controller
+- **Frontend** : Tailwind CSS v4 + DaisyUI - 100% responsive (desktop & mobile)
 - **Base de données** : MariaDB 10.4
 - **Génération PDF** : FPDF
 - **Icônes** : FontAwesome
@@ -43,7 +43,7 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 
 ## État d'avancement
 
-### 💰 Module Finances — terminé
+### 💰 Module Finances - terminé
 - Gestion multi-comptes (création, modification, suppression)
 - Enregistrement des transactions par catégorie
 - Système de budget avec suggestions automatiques basées sur l'historique
@@ -52,11 +52,11 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - Paiements récurrents (quotidien, hebdomadaire, mensuel, trimestriel, annuel) avec exécution automatique via tâche planifiée
 - Export PDF (à but personnel) avec logo, numérotation des pages et mentions légales
 
-### 📅 Module Agenda — en cours
-- [x] Vue **Jour** — affichage horaire 00h–23h, chevauchement d'événements, responsive
-- [x] Vue **Semaine** — grille 7 colonnes desktop, affichage empilé mobile
-- [x] Vue **Mois** — grille responsive, jours hors-mois affichés
-- [x] Vue **Année** — 12 mini-calendriers, colonnes fixes Lun→Dim
+### 📅 Module Agenda - en cours
+- [x] Vue **Jour** - affichage horaire 00h–23h, chevauchement d'événements, responsive
+- [x] Vue **Semaine** - grille 7 colonnes desktop, affichage empilé mobile
+- [x] Vue **Mois** - grille responsive, jours hors-mois affichés
+- [x] Vue **Année** - 12 mini-calendriers, colonnes fixes Lun→Dim
 - [x] Jours fériés `français` intégrés dans toutes les vues + légende
 - [x] Création et modification d'événements, chargement BDD dynamique
 - [x] Agenda collaboratif avec système de rôles
@@ -64,7 +64,7 @@ Les modules prévus ou en cours de développement couvrent les grandes catégori
 - [x] Création d'un nouveau calendrier
 - [ ] Gestion des membres et rôles
 
-### 🌍 Internationalisation — en cours
+### 🌍 Internationalisation - en cours
 - [x] Système i18n en place (session + BDD)
 - [ ] Sélecteur de langue
 - [x] Module Finances traduit
